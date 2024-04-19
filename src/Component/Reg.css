@@ -1,0 +1,46 @@
+/* .hello{
+  background-image: url("https://image.freepik.com/free-photo/shopping-cart-blue-background-minimalism-style-shop-trolley-supermarket_80743-2207.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+} */
+h2{
+    font-size: 25px;
+    color: #007bff;
+    text-align: center ;
+} 
+ form{
+    text-align: center;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+
+form label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+form input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+
+ button:hover {
+    background-color: #0056b3;
+  }
